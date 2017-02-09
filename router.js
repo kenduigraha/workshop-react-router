@@ -29,7 +29,7 @@ const Home = React.createClass({
     return(
       <div>
         <App />
-        <h2>Componen Home</h2>
+        <h2>Component Home</h2>
       </div>
     )
   }
@@ -40,7 +40,7 @@ const About = React.createClass({
     return(
       <div>
         <App />
-        <h2>Componen About</h2>
+        <h2>Component About</h2>
       </div>
     )
   }
